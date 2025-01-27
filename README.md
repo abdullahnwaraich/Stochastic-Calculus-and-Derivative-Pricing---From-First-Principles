@@ -18,7 +18,7 @@ This repository contains a comprehensive derivation of key concepts and models i
 The content here bridges the gap between rigorous mathematical derivations and their implications for real-world financial systems. These derivations form the foundation for robust predictive models, risk analysis, and portfolio optimization in quant finance.
 
 ## Getting Started
-1. **PDF Notes**: Access the complete notes in the `notes` folder.
+1. **PDF Notes**: Access the complete notes under the name of "stochastic_calculus_der_pricing".
 2. **Code (Optional)**: Sample Python notebooks that implement key models will be added soon.
 
 ## Author
