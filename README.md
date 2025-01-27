@@ -1,7 +1,7 @@
 # Stochastic Calculus and Derivative Pricing - From First Principles
 
 ## Overview
-This repository contains a comprehensive derivation of key concepts and models in quantitative finance, rooted in stochastic calculus. These notes reflect my PhD-level expertise in mathematics and focus on applying theoretical models to practical challenges in financial derivative pricing.
+This repository contains a comprehensive derivation of key concepts and models in quantitative finance, rooted in stochastic calculus. These notes reflect my PhD-level expertise in probability theory and focus on applying theoretical models to practical challenges in financial derivative pricing.
 
 ## Topics Covered
 - **Stochastic Calculus Basics:** Martingales, Ito Integrals, and Quadratic Variations.
@@ -25,7 +25,7 @@ The content here bridges the gap between rigorous mathematical derivations and t
 **Abdullah Naeem**
 - PhD in Electrical Engineering
 - Expertise: High-dimensional statistics, derivative pricing, statistical arbitrage and predictive modelling.
-- Contact: abdullah_naeemw_araich@outlook.com
+- Contact: abdullah_naeem_waraich@outlook.com
 
 ## Contributions and Feedback
 Feel free to fork the repository and propose improvements or leave feedback through issues.
